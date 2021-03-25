@@ -9,5 +9,12 @@ Please be advised to check the file paths in the code and modify according to yo
 
 Tested with Python v3.6.7 and R v4.0.
 
-The authors, March 2021.
+
+
+
+
+
+
+
+Copyright @ Authors March 2021
 
