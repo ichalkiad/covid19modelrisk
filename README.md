@@ -10,7 +10,7 @@ _Chalkiadakis, Ioannis and Yan, Hongxuan and Peters, Gareth and Shevchenko, Pave
 
 The available sentiment data contain the sentiment entropy index per news source, as well as the global weighted sentiment index that was used in the studies.
 
-The infected COVID-19 data for the studies are also available and taken from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series.
+The COVID-19 data (infected cases) for the studies are also available and taken from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series.
 
 To obtain the sentiment index used in the studies, run the script 'reporting_weighted_sentiment_index.py' in covid19modelrisk/python/.
 
