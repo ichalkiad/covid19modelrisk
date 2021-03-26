@@ -8,7 +8,7 @@ _Chalkiadakis, Ioannis and Yan, Hongxuan and Peters, Gareth and Shevchenko, Pave
 
 
 
-The available sentiment data contain the sentiment entropy index per news source, as well as the global weighted sentiment index. 
+The available sentiment data contain the sentiment entropy index per news source, as well as the global weighted sentiment index that was used in the studies.
 
 The infected COVID-19 data for the studies are also available and taken from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series.
 
