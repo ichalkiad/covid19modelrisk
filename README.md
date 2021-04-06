@@ -4,7 +4,7 @@ This repository contains the code for the paper "Infection Rate Models for COVID
 
 Please cite the paper as follows:
 
-_Chalkiadakis, Ioannis and Yan, Hongxuan and Peters, Gareth and Shevchenko, Pavel V., Infection Rate Models for Covid-19: Model Risk and Public Health News Sentiment Exposure Adjustments. (March 26, 2021). Available at SSRN : https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3663412_
+_Chalkiadakis, Ioannis and Yan, Hongxuan and Peters, Gareth and Shevchenko, Pavel V., Infection Rate Models for Covid-19: Model Risk and Public Health News Sentiment Exposure Adjustments. (March 26, 2021). Available at SSRN : https://ssrn.com/abstract=3813417_
 
 
 The available sentiment data contain the sentiment entropy index per news source, as well as the global weighted sentiment index that was used in the studies.
